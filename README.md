@@ -1,1 +1,1 @@
-# remember-tiles-ios
+This project is iOS version of game called Remember Tiles, which was developed by @mehmetfdemirel for Android around 10 years ago. Remember Tiles is based on remembering and selecting the tiles that the game shows you for a split second.
